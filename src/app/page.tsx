@@ -1,5 +1,4 @@
 'use client'
-import { ServiceBusClient }  from "@azure/service-bus"
 import { useEffect, useState } from "react";
 import {getTemperature} from '../utils/service'
 export default function Home() {
