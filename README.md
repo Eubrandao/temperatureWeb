@@ -4,6 +4,17 @@ Front feito no NextJs responsável por consumir informações de temperatura de 
 ![Alt text](image.png)
 
 
+## Como instalar:
+
+1 - Crie um fila no Azure Service Bus com o nome "temperature"
+2 - Recupere a string de conexão para se conectar ao Service Bus
+3 - Insira a string no .env
+4 - Clone este repo + o repo da API que é responsável por popular o service bus
+5 - Npm run dev para rodar o projeto.
+
+Se diverte!
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
