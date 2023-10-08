@@ -9,7 +9,7 @@ Front feito no NextJs responsável por consumir informações de temperatura de 
 - Crie um fila no Azure Service Bus com o nome "temperature"
 - Recupere a string de conexão para se conectar ao Service Bus
 - Insira a string no .env
-- Clone este repo + o serviço responsável por inserir as informações na fila: [https://github.com/Eubrandao/TemperatureService](Repo)
+- Clone este repo + o serviço responsável por inserir as informações na fila: [[https://github.com/Eubrandao/TemperatureService]](https://github.com/Eubrandao/TemperatureService)(Repo)
 - Npm run dev para rodar o projeto.
 
 Se diverte!
