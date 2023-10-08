@@ -6,11 +6,11 @@ Front feito no NextJs responsável por consumir informações de temperatura de 
 
 ## Como instalar:
 
-1 - Crie um fila no Azure Service Bus com o nome "temperature"
-2 - Recupere a string de conexão para se conectar ao Service Bus
-3 - Insira a string no .env
-4 - Clone este repo + o repo da API que é responsável por popular o service bus
-5 - Npm run dev para rodar o projeto.
+- Crie um fila no Azure Service Bus com o nome "temperature"
+- Recupere a string de conexão para se conectar ao Service Bus
+- Insira a string no .env
+- Clone este repo + o repo da API que é responsável por popular o service bus
+- Npm run dev para rodar o projeto.
 
 Se diverte!
 
